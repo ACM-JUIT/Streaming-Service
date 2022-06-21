@@ -1,4 +1,4 @@
-# Live Streaming Service
+# Streaming Service
 
 <!-- Remove This After 1st PR -->
 ## TASK
