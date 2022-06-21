@@ -2,7 +2,7 @@
 
 <!-- Remove This After 1st PR -->
 ## TASK
-`Creating a Streaming Service (both backend and frontend) using preferred techstack`
+`Creating a Streaming Service (both backend and frontend) using preferred techstack where user can post or even live stream any of their videos. Anyone can join/watch the live stream`
 
 ### WebAPP Should Include
 - Login/Signup
